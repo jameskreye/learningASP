@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "EntendiendoDiagramaDeClases\OOP.csproj", "{94958F19-093C-4086-8738-92135B9067E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94958F19-093C-4086-8738-92135B9067E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94958F19-093C-4086-8738-92135B9067E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94958F19-093C-4086-8738-92135B9067E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94958F19-093C-4086-8738-92135B9067E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A97BE36-C557-4FEA-A84F-B2878E2C42A2}
+	EndGlobalSection
+EndGlobal
